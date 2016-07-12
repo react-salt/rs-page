@@ -11,6 +11,6 @@ describe('Seed', () => {
     )
 
     const seedNode = ReactDOM.findDOMNode(seed)
-    expect(seedNode.className).toContain('zent-title')
+    expect(seedNode.className).toContain('salt-title')
   })
 })

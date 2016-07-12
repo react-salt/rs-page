@@ -32,7 +32,7 @@ export default class Header extends Component {
     return (
       <ul className="row">
         {this.props.navList.map(item => (
-          <div className="zent-col zent-col-8" key={item.name}>
+          <div className="salt-col salt-col-8" key={item.name}>
             {item.to ?
               <Link to={item.to}>{item.name}</Link> :
               <span>{item.name}</span>

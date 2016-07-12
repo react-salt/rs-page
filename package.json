@@ -1,6 +1,6 @@
 {
   "name": "rs-page",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React 页面级组件",
   "main": "./lib/index.js",
   "scripts": {

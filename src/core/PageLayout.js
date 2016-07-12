@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 
 export default class PageLayout extends PageBase {
 
-  containerClass = 'zent-pagelayout'
+  containerClass = 'salt-pagelayout'
 
   renderHeader() {
     return (
